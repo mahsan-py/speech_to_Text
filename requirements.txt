@@ -1,0 +1,9 @@
+setuptools
+streamlit
+sounddevice
+soundfile
+noisereduce
+SpeechRecognition
+numpy
+watchdog
+pyaudio
